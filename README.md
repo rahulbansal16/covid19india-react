@@ -1,7 +1,7 @@
 # covid19india
 
 <p align="center">
-<img src="https://imgur.com/Lpn4tgh" width="50%">
+<img src="images/covidjobaid.JPG" width="50%">
 </p>
 
 
