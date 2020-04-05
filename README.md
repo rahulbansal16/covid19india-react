@@ -4,12 +4,6 @@
 <img src="images/covidjobaid.JPG" width="50%">
 </p>
 
-
-
-<p align="center">
-  View our <a href="https://bit.ly/patientdb">live patient database</a>.
- </p>
-
 ## Setup
 
 ```
