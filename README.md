@@ -12,7 +12,7 @@ npm i && npm start
 
 ## Maintainers
 
-- [jeremyphilemon](https://github.com/jeremyphilemon)
+- [rbansal16](https://github.com/rahulbansal16)
 
 ## Contribution
 
