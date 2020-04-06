@@ -131,6 +131,7 @@ class CandidateProfile extends React.Component {
               <Card.Header>{profile.role}</Card.Header>
               <Card.Meta >{profile.exp} of Experience</Card.Meta>
               <Card.Meta>{profile.college}</Card.Meta>
+              <Card.Meta>Revoked offer from {profile.internshipOfferFrom}</Card.Meta>
               <Card.Description style={{color:'#343a40'}}>{profile.summary}</Card.Description>
             </Card.Content>
             <Card.Content extra>
