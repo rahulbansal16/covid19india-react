@@ -2386,7 +2386,7 @@ select {
   margin-top:10px;
 }
 .tags {
-  display: inline;
+  display: inline-block;
   background-color:$purple-light;
   color: $purple;
   padding:4px 8px;
@@ -2397,4 +2397,7 @@ select {
 
 .jobFilter {
   /* margin-left: 30px; */
+}
+.App {
+  width : 100%;
 }
