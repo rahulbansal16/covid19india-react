@@ -135,7 +135,7 @@ class CandidateProfile extends React.Component {
               <Card.Description style={{color:'#343a40'}}>{profile.summary}</Card.Description>
             </Card.Content>
             <Card.Content extra>
-              <div style = { {display:'flex', flexDirection:'row'} }>
+              <div style = { {display:'block'} }>
               {profile.tags.map((element, index) => {
                 return this.createTags(element,index);
               })}
